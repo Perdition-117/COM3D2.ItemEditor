@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Version>1.0.0</Version>
+		<Authors>Perdition</Authors>
+		<PackageProjectUrl>https://github.com/Perdition-117/COM3D2.ItemEditor</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/Perdition-117/COM3D2.ItemEditor.git</RepositoryUrl>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<TargetFramework>net35</TargetFramework>
+		<LangVersion>10</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="BepInEx.BaseLib" Version="5.4.21" />
+		<PackageReference Include="BepInEx.PluginInfoProps" Version="2.1.0" />
+		<PackageReference Include="COM3D2.GameLibs" Version="2.44.1-r.0" />
+		<PackageReference Include="UnityEngine" Version="5.6.1" />
+	</ItemGroup>
+
+</Project>
