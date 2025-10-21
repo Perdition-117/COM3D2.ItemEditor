@@ -14,6 +14,7 @@ Features:
 ## Usage
 
 - Press Ctrl-Shift-E while in the character editor to open the user interface.
+- Click Export to export your modified item. By default, the exported item will be saved in the `exports` folder. Move it to your Mod folder and reload your mods or restart the game.
 
 ## Configuration
 
